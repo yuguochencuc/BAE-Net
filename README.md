@@ -6,7 +6,8 @@ This is the repo of the manuscript "BAE-Net: A Low complexity and high fidelity 
 
  
 ### System flowchart of CinCGAN
-[overall_arch.pdf](https://github.com/yuguochencuc/BAE-Net/files/13438383/overall_arch.pdf)
+![image](https://github.com/yuguochencuc/BAE-Net/assets/51236251/3738cc0f-46e8-4833-9f0b-294e6654fd85)
+
 
 
 ### Results:
@@ -15,7 +16,8 @@ This is the repo of the manuscript "BAE-Net: A Low complexity and high fidelity 
 ![image](https://github.com/yuguochencuc/BAE-Net/assets/51236251/af0b86fc-b6d4-44b8-ae09-41922d9f1eb7)
 
 
-## Visualization of spectrograms of captured LR speech, generated HR speech by AERO and BAE-Net, and the HR reference.
+# Visualization of spectrograms of captured LR speech, generated HR speech by AERO and BAE-Net, and the HR reference.
 
-[result_example.pdf](https://github.com/yuguochencuc/BAE-Net/files/13438400/result_example.pdf)
+![image](https://github.com/yuguochencuc/BAE-Net/assets/51236251/d2415f51-606a-45bb-8561-e89a71c2d5d5)
+
 
