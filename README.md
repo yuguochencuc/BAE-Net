@@ -16,7 +16,7 @@ This is the repo of the manuscript "BAE-Net: A Low complexity and high fidelity 
 ![image](https://github.com/yuguochencuc/BAE-Net/assets/51236251/af0b86fc-b6d4-44b8-ae09-41922d9f1eb7)
 
 
-# Visualization of spectrograms of captured LR speech, generated HR speech by AERO and BAE-Net, and the HR reference.
+### Visualization of spectrograms of captured LR speech, generated HR speech by AERO and BAE-Net, and the HR reference.
 
 ![image](https://github.com/yuguochencuc/BAE-Net/assets/51236251/d2415f51-606a-45bb-8561-e89a71c2d5d5)
 
