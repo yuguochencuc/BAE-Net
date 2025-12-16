@@ -244,7 +244,7 @@ class Phase_Encoder(nn.Module):
         inter_3 = self.inter_com[2](enc_4, mag_list[3])
         enc_5 = self.en[4](inter_3) # b 64 t
 
-        inter_4 = self.inter_com[2](enc_5, mag_list[4])
+        inter_4 = self.inter_com[3](enc_5, mag_list[4]) # 修复unused的inter4分支
 
         phase_list.append(enc_1)
         phase_list.append(inter_1)
