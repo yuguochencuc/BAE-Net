@@ -378,9 +378,6 @@ class Mag_Encoder(nn.Module):
     def forward(self, x):
         x_list = []
         x_list.append(x)
-        inputs_mag = x.permute(0, 2, 1).contiguous()
-        erb_inputs = (torch.einsum("btf,fr->btr", [inputs_mag**2, self.linear2erb]) + torch_eps)**0.5
-        x = erb_inputs.permute(0, 2, 1).contiguous()
         for i in range(len(self.en)):
             x = self.en[i](x)
             x_list.append(x)
