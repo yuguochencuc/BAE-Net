@@ -1,4 +1,4 @@
-### Fork form BAE-Net https://github.com/yuguochencuc/BAE-Net 
+### Fork from BAE-Net https://github.com/yuguochencuc/BAE-Net 
 Since there seem to be some issues in the source code, I have fixed few bugs here.
 
 #### Issue 1 – ERB module not compressing when erb_dim = input_size
